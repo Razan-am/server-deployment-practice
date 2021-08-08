@@ -25,6 +25,13 @@ Application development in the Node.js ecosystem, including the writing of modul
 <!-- To Be Completed By Instructor -->
 
 ## Notes
+- razan-server-deploy-dev: https://razan-server-deploy-dev.herokuapp.com/
+- razan-server-deploy-prod: https://razan-server-deploy-prod.herokuapp.com/data
+- Github action dev : https://github.com/Razan-am/server-deployment-practice/actions
+- Github action main :  https://github.com/Razan-am/server-deployment-practice/actions
+- pull request: https://github.com/Razan-am/server-deployment-practice/pull/1
+
+
 
 ### Importing and Exporting Modules
 
