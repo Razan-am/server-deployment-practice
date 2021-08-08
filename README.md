@@ -29,7 +29,7 @@ Application development in the Node.js ecosystem, including the writing of modul
 - razan-server-deploy-prod: https://razan-server-deploy-prod.herokuapp.com/data
 - Github action dev : https://github.com/Razan-am/server-deployment-practice/actions
 - Github action main :  https://github.com/Razan-am/server-deployment-practice/actions
-- pull request: https://github.com/Razan-am/server-deployment-practice/pull/1
+- pull request: https://github.com/Razan-am/server-deployment-practice/pull/2
 
 
 
